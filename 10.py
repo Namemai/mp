@@ -11,7 +11,7 @@ import time, random, sys, json, codecs, threading, glob, re, string, os, request
 #==============================================================================#
 botStart = time.time()
 #==============================================================================#
-line = LINE("ED6h53Grul49FRVNzO77.MNDJ+FLNS0xznCFGA2mQ1W.1pFLzbNvDvBDXo1U9O6sM5ILug1wgU/4tCHKow+asgE")
+line = LINE("")
 line.log("Auth Token : " + str(line.authToken))
 # Assist
 ki = LINE("EDkRobZOqw8xtawF38M4.+0VwFLVgQ2j2cX+3JyNF5a.wKILaaflA5oamztZbovmR+6jR6vOYD8o1PL8anw7DPU")
@@ -114,7 +114,7 @@ g1MID = g1.getProfile().mid
 g2MID = g2.getProfile().mid
 
 Bots=[lineMID,kiMID,kkMID,kcMID,keMID,ktMID,ksMID,k1MID,k2MID,k3MID,g1MID,g2MID]
-creator = ["uc66e45201d1612eb4ce7b3a86bac4685","u0f6df437fe3e32f07c4562308ac430a9","u135efc0e80bf25248983ab548bb6c010"]
+creator = ["uc66e45201d1612eb4ce7b3a86bac4685']
 admin=['uc66e45201d1612eb4ce7b3a86bac4685']
 owner=['uc66e45201d1612eb4ce7b3a86bac4685']
 staff=['uc66e45201d1612eb4ce7b3a86bac4685']
