@@ -114,7 +114,7 @@ g1MID = g1.getProfile().mid
 g2MID = g2.getProfile().mid
 
 Bots=[lineMID,kiMID,kkMID,kcMID,keMID,ktMID,ksMID,k1MID,k2MID,k3MID,g1MID,g2MID]
-creator = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+creator = ["uc66e45201d1612eb4ce7b3a86bac4685","u0f6df437fe3e32f07c4562308ac430a9","u135efc0e80bf25248983ab548bb6c010"]
 admin=['uc66e45201d1612eb4ce7b3a86bac4685']
 owner=['uc66e45201d1612eb4ce7b3a86bac4685']
 staff=['uc66e45201d1612eb4ce7b3a86bac4685']
