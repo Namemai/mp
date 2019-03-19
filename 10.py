@@ -11,7 +11,7 @@ import time, random, sys, json, codecs, threading, glob, re, string, os, request
 #==============================================================================#
 botStart = time.time()
 #==============================================================================#
-line = LINE("EDqRVUcShkwZwPdpqv37.MNDJ+FLNS0xznCFGA2mQ1W.ImVOCE3qtyYJL9XfvKsiNqy+/ggJzGaDkTBll7Dztx0)
+line = LINE("EDqRVUcShkwZwPdpqv37.MNDJ+FLNS0xznCFGA2mQ1W.ImVOCE3qtyYJL9XfvKsiNqy+/ggJzGaDkTBll7Dztx0")
 line.log("Auth Token : " + str(line.authToken))
 # Assist
 ki = LINE("EDkRobZOqw8xtawF38M4.+0VwFLVgQ2j2cX+3JyNF5a.wKILaaflA5oamztZbovmR+6jR6vOYD8o1PL8anw7DPU")
