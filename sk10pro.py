@@ -114,10 +114,10 @@ g1MID = g1.getProfile().mid
 g2MID = g2.getProfile().mid
 
 Bots=[lineMID,kiMID,kkMID,kcMID,keMID,ktMID,ksMID,k1MID,k2MID,k3MID,g1MID,g2MID]
-creator = ["ub1c5a71f27b863896e9d44bea857d35b","u0f6df437fe3e32f07c4562308ac430a9","u135efc0e80bf25248983ab548bb6c010"]
-admin=['ub1c5a71f27b863896e9d44bea857d35b']
-owner=['ub1c5a71f27b863896e9d44bea857d35b']
-staff=['ub1c5a71f27b863896e9d44bea857d35b']
+creator = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+admin=['uc66e45201d1612eb4ce7b3a86bac4685']
+owner=['uc66e45201d1612eb4ce7b3a86bac4685']
+staff=['uc66e45201d1612eb4ce7b3a86bac4685']
 Bots = Bots 
 #==============================================================================#
 protectantijs = []
@@ -276,7 +276,7 @@ def command(text):
     return cmd
   
 def myhelp():
-    myHelp = "🦆 🛡S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ🛡 " + "\n" + \
+    myHelp = "      Mai" + "\n" + \
                   "🦆「Help」"+ "\n" + \
                   "🦆「Hk」"+ "\n" + \
                   "🦆「Sp」"+ "\n" + \
@@ -287,14 +287,14 @@ def myhelp():
                   "🦆「Set」"+ "\n" + \
                   "🦆「Botlist」"+ "\n" + \
                   "🦆「Protectlist」"+ "\n" + \
-                  "🦆「Skpro「On/Off」"+ "\n" + \
+                  "🦆「allpro「On/Off」"+ "\n" + \
                   "🦆「Creator」"+ "\n" + \
                   "🦆「Autojoin「On/Off」"+ "\n" + \
                   "🦆「Autoleave「On/Off」"+ "\n" + \
                   "🦆「Autojointicket「On/Off」"+ "\n" + \
                   "🦆「K「On/Off」"+ "\n" + \
-                  "🦆「Masuk」"+ "\n" + \
-                  "🦆「Reject」"+ "\n" + \
+                  "🦆「มา.」"+ "\n" + \
+                  "🦆「ออก.」"+ "\n" + \
                   "🦆「Bc:」"+ "\n" + \
                   "🦆「Skinvite」"+ "\n" + \
                   "🦆「Ban @」"+ "\n" + \
@@ -307,17 +307,17 @@ def myhelp():
                   "🦆「Sktutup qr」"+ "\n" + \
                   "🦆「Sk pulang」"+ "\n" + \
                   "🦆「Sk qr」"+ "\n" + \
-                  "🦆 🛡S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ🛡 "
+                  " Mai "
     return myHelp
 
 def helpkicker():
-    helpKicker = "🦆 🛡S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ🛡 " + "\n" + \
+    helpKicker = "🦆 " + "\n" + \
                  "🦆 Sk3 @" + "\n" + \
                  "🦆 Sk2 @" + "\n" + \
                  "🦆 Sk4 @" + "\n" + \
                  "🦆 Sk1 @" + "\n" + \
                  "🦆 Sksiri @"+ "\n" + \
-                 "🦆 🛡S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ🛡 "
+                 "🦆  "
     return helpKicker
 #==============================================================================#
 def lineBot(op):
@@ -2408,7 +2408,7 @@ def lineBot(op):
                 if text is None:
                     return   
 #==============================================================================#
-                if text.lower() == 'help':
+                if text.lower() == 'h':
                   if msg._from in admin:
                     myHelp = myhelp()
                     line.sendMessage(to, str(myHelp))
@@ -2420,10 +2420,10 @@ def lineBot(op):
                 elif text.lower() == 'sp':
                   if msg._from in admin:
                     start = time.time()
-                    line.sendMessage(msg.to, "...")
+                    line.sendMessage(msg.to, "ความเร็วยุที่")
                     elapsed_time = time.time() - start
                     line.sendMessage(msg.to, "{} detik".format(str(elapsed_time)))						
-                elif text.lower() == 'restart':
+                elif text.lower() == 'รีบอท':
                   if msg._from in admin:
                     line.sendMessage(to, "Tunggu ..")
                     line.sendMessage(to, "Success Restarting.")
@@ -2432,7 +2432,7 @@ def lineBot(op):
                 elif text.lower() == 'set':
                   if msg._from in admin:
                     try:
-                        ret_ = "Protect ☬S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ☬"
+                        ret_ = "Protect Mai"
                         if settings["autoJoinTicket"] == True: ret_ += "🦆 Auto Join Ticket「on」\n"
                         else: ret_ += "🦆 Auto Join Ticket「off」\n"
                         if settings["contact"] == True: ret_ +="🦆 Contact「on」\n"
@@ -2455,7 +2455,7 @@ def lineBot(op):
                         else: ret_ +="🦆 Anti kicker「off」\n"
                         if msg.to in protectinvite: ret_ +="🦆 Protectinvite「on」\n"
                         else: ret_ +="🦆 Protectinvite「off」\n"
-                        ret_ += "\n☬S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ☬"
+                        ret_ += "Mai"
                         line.sendMessage(to, str(ret_))
                     except Exception as e:
                         line.sendMessage(msg.to, str(e))
@@ -2491,7 +2491,7 @@ def lineBot(op):
 #==============================================================================#
                 elif text.lower() == 'creator':
                   if msg._from in admin:
-                    line.sendText(msg.to,"Creator kami ☬B҉͎̣̫͈̥̗͒͌͑̔̾e҉̮̟͈̣̖̰̩̹͈̾ͨ̑͑b҉͎̣̫͈̥̗͒͌͑̔̾e҉̮̟͈̣̖̰̩̹͈̾ͨ̑͑k҉̠̞̖ͧ̔͊̇̽̿̑ͯ B҉͎̣̫͈̥̗͒͌͑̔̾o҉̜̓̇ͫ̉͊ͨt҉̘̟̼̉̈͐͋͌̊ T҉̘̟̼̉̈͐͋͌̊e҉̮̟͈̣̖̰̩̹͈̾ͨ̑͑a҉̘̫͈̭͌͛͌̇̇̍m҉̘͈̺̪͓̺ͩ̾ͪ̋☬\nPengembang:🛡S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ🛡") 
+                    line.sendText(msg.to,"by,Mai") 
                     ma = ""
                     for i in creator:
                         ma = line.getContact(i)
@@ -2553,9 +2553,9 @@ def lineBot(op):
                         line.findAndAddContactsByMid(msg._from)
                         line.inviteIntoGroup(gid,[msg._from])
                       except:
-                        line.sendText(msg.to,"Mungkin saya tidak di dalaam grup itu")
+                        line.sendText(msg.to,"Mai")
 #=============COMMAND KICKER===========================#
-                elif text.lower() == 'masuk':
+                elif text.lower() == 'มา.':
                   if msg._from in admin:
                     if msg.toType == 2:
                         group = line.getGroup(to)
@@ -2641,7 +2641,7 @@ def lineBot(op):
                           except:
                               kk.sendMessage(msg.to,"Limit kaka 😫")                                                      
                    
-                elif text.lower() == "hapuschat":
+                elif text.lower() == "sb":
                         if msg._from in admin:
                             try:
                                 ki.removeAllMessages(op.param2)
@@ -2659,7 +2659,7 @@ def lineBot(op):
                                 pass
                                 print ("done")
 
-                elif text.lower() == "sk pulang":
+                elif text.lower() == "ss":
                     if msg._from in admin:
                         ki.leaveGroup(msg.to)
                         kk.leaveGroup(msg.to)
@@ -2701,7 +2701,7 @@ def lineBot(op):
                           a = a + 1
                           end = '\n'
                           ma += str(a) + ". " +line.getContact(m_id).displayName + "\n"
-                      line.sendMessage(msg.to,"🛡S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ🛡\n\n"+ma+"\nTotal「%s」" %(str(len(Bots))))
+                      line.sendMessage(msg.to,"\n\n"+ma+"\nTotal「%s」" %(str(len(Bots))))
 
                 elif text.lower() == "protectlist":
                   if msg._from in admin:
@@ -2745,7 +2745,7 @@ def lineBot(op):
                           mc += str(c) + ". " +line.getGroup(group).name + "\n"
                       line.sendMessage(msg.to,"Protection\n\nProtect Url :\n"+ma+"\nProtect Kick:\n"+mb+"\nprotect Join:\n"+md+"\nProtect Cancel:\n"+md+"\nProtect Guest:\n"+md+"\nProtect Invite:\n"+mc+"\nTotal「%s」Grup protect" %(str(len(protectqr)+len(protectkick)+len(protectjoin)+len(protectcancel)+len(protectinvite))))
 
-                elif text.lower() == "skrespon":
+                elif text.lower() == "b":
                   if msg._from in admin:
                       ki.sendText(msg.to,"S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ")
                       kk.sendText(msg.to,"S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ")
@@ -2757,7 +2757,7 @@ def lineBot(op):
                       k2.sendText(msg.to,"S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ")
                       k3.sendText(msg.to,"S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ")
                       line.sendText(msg.to,"S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ")   
-                      random.choice(KAC).sendText(msg.to,"Pᴀsᴜᴋᴀɴ sɪʟᴇɴᴛ ʜᴀᴅɪʀ\nProtect Maxcimal siap siaga\nSɪʟᴇɴᴛᵏᶦˡˡᵉʳ")
+                      random.choice(KAC).sendText(msg.to,"P")
                       
                 elif text.lower() == "skbuka qr":
                   if msg._from in admin:
@@ -2941,7 +2941,7 @@ def lineBot(op):
                                  msgs = "anti kicker sudah tidak aktif"
                             line.sendMessage(msg.to, "「Dinonaktifkan」\n" + msgs) 
 
-                elif 'Skpro ' in msg.text:
+                elif 'allpro ' in msg.text:
                   if msg._from in admin:
                       spl = msg.text.replace('Skpro ','')
                       if spl == 'on':
@@ -3064,7 +3064,7 @@ def lineBot(op):
                     k2.sendMessage(msg.to,"Sukses membersihkan " +mc)
                     k3.sendMessage(msg.to,"Sukses membersihkan " +mc)
                               
-                elif text.lower() == 'reject':
+                elif text.lower() == 'ออก.':
                   if msg._from in admin:
                     gid = line.getGroupIdsInvited()
                     for i in gid:
@@ -3152,7 +3152,6 @@ def lineBot(op):
                                 k2.acceptGroupInvitationByTicket(ra.id,ticket_id)
                                 group = k3.findGroupByTicket(ticket_id)
                                 k3.acceptGroupInvitationByTicket(ra.id,ticket_id)
-                                line.sendMessage(to, "Berhasil masuk ke group %s" % str(group.name))
                             else:
                                 pass
         
